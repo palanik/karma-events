@@ -18,6 +18,9 @@
   ],
   "author": "palanik",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
   "bugs": {
     "url": "https://github.com/palanik/karma-events/issues"
   },

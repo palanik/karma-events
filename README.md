@@ -1,5 +1,7 @@
 # karma-events
 
+[![npm version](https://badge.fury.io/js/karma-events.svg)](https://badge.fury.io/js/karma-events)
+
 > Karma Framework to execute tasks on Karma Events.
 
 ## Installation
@@ -18,7 +20,7 @@ For example, you can start the test server before the tests begin executing on t
 ## Configuration
 1. **karma-events** module is automatically loaded from `node_modules`. You can also add it explicitly via the [plugins](http://karma-runner.github.io/4.0/config/plugins.html) configuration section.
 
-```JS
+```js
 plugins: [
   'karma-events'
 ]
