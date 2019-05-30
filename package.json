@@ -1,0 +1,25 @@
+{
+  "name": "karma-events",
+  "version": "1.0.0",
+  "description": "A Karma Plugin. Framework to hook into Karma Events.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palanik/karma-events.git"
+  },
+  "keywords": [
+    "karma-plugin",
+    "karma-framework",
+    "karma",
+    "bdd",
+    "tdd"
+  ],
+  "author": "palanik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palanik/karma-events/issues"
+  },
+  "homepage": "https://github.com/palanik/karma-events#readme"
+}
